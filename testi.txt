@@ -1,1 +1,2 @@
-Tekstitekstiä repoharkkaan 2
+Testitekstiä repoharkkaan 2
+Lisää testitekstiä samaan repoon ja harkkaan
